@@ -1152,3 +1152,29 @@ section {
     margin: 15px 0 20px 0;
 }
 
+/* Modelos Novos */
+#Demolidor{
+  background-image: url(../image/banner/casual.jpg);
+  width: 100%;
+  height: 50vh;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+  padding: 14px;
+}
+
+#Demolidor h2{
+  color: #fff;
+  font-size: 46px;
+  line-height: 64px;
+}
+
+#Demolidor p{
+  font-size: 16px;
+  color: #fff;
+  margin: 15px 0 20px 0;
+}
+
+
