@@ -942,6 +942,16 @@ section {
   background-color: var(--main-bg-color);
 }
 
+.footer .credit span1 a{
+  color: purple;
+  padding: 5px;
+}
+
+.footer .credit span1 a:hover{
+  color: white;
+  background-color: purple;
+}
+
 @media (max-width: 991px) {
   html {
     font-size: 55%;
